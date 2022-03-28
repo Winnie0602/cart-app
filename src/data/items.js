@@ -57,13 +57,6 @@ const items = [{
     description: "用途多多的人氣無印風鞋款，您必須擁有吧！"
 },
 {
-    id: 8,
-    name: "無印風防水帆布鞋",
-    price: 799,
-    category: "Accessory",
-    description: "用途多多的人氣無印風鞋款，您必須擁有吧！"
-},
-{
     id: 9,
     name: "挺版短袖上衣",
     price: 599,

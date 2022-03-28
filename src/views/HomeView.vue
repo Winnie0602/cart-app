@@ -2,7 +2,6 @@
   <div class="home">
     <div class="products-cards-container">
     
-
       <!-- <button @click="findCategoryTop">press</button> -->
 
       <ProductDescriptionDrawer
