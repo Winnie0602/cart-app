@@ -47,13 +47,13 @@ export default {
         product_drawer: false,
       }
     }
-  },
-  mounted(){
-    // fetch('http://localhost:3000/products')
-    //         .then(res =>  res.json())
-    //         .then (data => this.items = data)
+    },
+  // mounted(){
+  //   fetch('http://localhost:3000/products')
+  //           .then(res =>  res.json())
+  //           .then (data => this.items = data)
     
-  },
+  // },
   methods:{
     viewProduct(product){
       this.product = product;
